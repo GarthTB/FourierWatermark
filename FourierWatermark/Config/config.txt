@@ -1,1 +1,2 @@
-10 # Opacity
+0.1 # opacity
+0 # output format: 0 - tiff; 1 - webp; 2 - png; 3 - jpeg
