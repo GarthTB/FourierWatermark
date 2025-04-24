@@ -41,6 +41,7 @@
   <ItemGroup>
     <PackageReference Include="OpenCvSharp4" Version="4.10.0.20241108" />
     <PackageReference Include="OpenCvSharp4.runtime.win" Version="4.10.0.20241108" />
+    <PackageReference Include="Tomlyn" Version="0.19.0" />
   </ItemGroup>
 
   <ItemGroup>
